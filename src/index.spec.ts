@@ -1,4 +1,4 @@
-import Person from "index"
+import Person from "@/src"
 
 it("should sum", () => {
   const person = new Person()

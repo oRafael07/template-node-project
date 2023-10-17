@@ -9,7 +9,7 @@
     "husky:prepare": "husky install",
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
-    "test:coverage": "vitest --coverage",
+    "test:coverage": "vitest run --coverage",
     "test:staged": "npm run test"
   },
   "keywords": [],
